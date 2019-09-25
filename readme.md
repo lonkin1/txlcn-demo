@@ -19,7 +19,7 @@
 6、登录TxManager： 
     http://localhost:8070 密码：123456
  
-7.测试先关controller 接口
+7.测试相关controller 接口
 
             
 
