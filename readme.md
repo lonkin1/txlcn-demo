@@ -1,4 +1,6 @@
-txlcn 5.0 demo
+基于spring cloud和springboot,使用eurcka 作为注册中心，使用 txlcn 5.0事务管理器；
+数据库采用mysql，事务管理使用用redis；
+这是一个demo，仅供学习参考
 
 使用说明:
 
